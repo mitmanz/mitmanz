@@ -1,4 +1,4 @@
-Hey, I am Mitch. I am a Computational Scientist with research interests in distributed learning, brain-computer interfaces, and causality.
+Hey, I am Mitch. I am a Computational Scientist with research interests in brain-computer interfaces, cognitive systems, and causal reasoning.
 
 <!--
 **mitmanz/mitmanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
